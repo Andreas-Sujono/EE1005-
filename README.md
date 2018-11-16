@@ -1,2 +1,2 @@
 # EE1005-
-EE1005 ( intro to computational thinking) course from NTU
+EE1005 (From Computational Thinking to Programming) course from NTU
